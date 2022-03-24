@@ -1,0 +1,29 @@
+img.test1{width: 45%;border: dotted 7px green;border-radius: 250px;
+float: left;box-sizing: 50%;}
+img.test1:hover{width: 45%;border: dotted 7px black;border-radius: 250px;
+float: left;box-sizing: 50%;}
+body{font-family: 'Pacifico', cursive;text-align: left;background: url(canada.jpg);}
+p.test1{font-size: 12px;float: right; width: 50%;vertical-align: top;text-align: justify;
+padding: 5px;box-sizing: 50%;}
+p.test2{font-size: 20px;margin: 5px 10px; width: 50%;text-align: left;}
+p.test4{font-size: 18px;width: 50%;text-align: center;}
+p.test5{font-size: 12px;width: 50%;text-align: left;}
+article{border: solid green 4px;border-radius: 40px; max-width: 600px;margin: 0px auto;padding: 15px; background: rgba(0, 255, 255, 0.5);
+max-height: 815px;}
+img.cont{transition-duration: 200ms; width: 30px;border: solid green 1px;text-align: left;border-radius: 30px;}
+img.cont:hover{width: 35px;border: solid green 1px;text-align: left;border-radius: 35px;}
+img.flag{transition-duration: 200ms; height: 30px;width: 30px;text-align: left;border-radius: 30px;}
+img.flag:hover{height: 35px;width: 35px;text-align: left;border-radius: 30px;}
+img.drive{transition-duration: 2s; width: 30px;border: solid green 1px;text-align: left;border-radius: 30px;}
+img.drive:hover{transform: rotate(120deg); width: 30px;border: solid green 1px;text-align: left;border-radius: 30px;}
+h2{font-size: 20px;float: right; text-align: center;width: 50%;}
+p.test3{font-size: 18px;float: right; width: 50%;vertical-align: top;text-align: justify;
+padding: 5px;box-sizing: 50%;}
+p.test33{transition-duration: 2s; font-size: 18px;float: right; width: 50%;text-align: justify;
+padding: 5px;box-sizing: 50%;margin: 5px;}
+p.test33:hover{background: green; background-size: 20%; font-size: 18px;float: right; width: 50%;text-align: justify;
+padding: 5px;box-sizing: 50%;margin: 5px;}
+p.test5{font-size: 18px;float: right; width: 50%;text-align: right;
+box-sizing: 50%;margin: 0px;padding-right: 15px;}
+img.code{width: 45%;float: left;box-sizing: 45%;}
+
